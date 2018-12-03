@@ -1,1 +1,3 @@
 pierwszy wpis
+
+if(user==voldemort)
